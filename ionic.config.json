@@ -1,0 +1,7 @@
+{
+  "name": "lambizomi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
